@@ -1,8 +1,8 @@
-# syncthing-android
+# syncthing-android-reborn
 
 [![License: MPLv2](https://img.shields.io/badge/License-MPLv2-blue.svg)](https://opensource.org/licenses/MPL-2.0)
 
-A wrapper of [Syncthing](https://github.com/syncthing/syncthing) for Android.
+An updated wrapper of [Syncthing](https://github.com/syncthing/syncthing) for Android. Forked for the purpose of continuous updates to the wrapper and its underlying SDK.
 
 <img src="app/src/main/play/listings/en-GB/graphics/phone-screenshots/screenshot_phone_1.png" alt="screenshot 1" width="200" /> <img src="app/src/main/play/listings/en-GB/graphics/phone-screenshots/screenshot_phone_2.png" alt="screenshot 2" width="200" /> <img src="app/src/main/play/listings/en-GB/graphics/phone-screenshots/screenshot_phone_3.png" alt="screenshot 3" width="200" />
 
